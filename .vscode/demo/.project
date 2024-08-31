@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>demo</name>
-	<comment></comment>
+	/**
+		* This is a comment block in an XML file.
+		* It is used to provide information or explanations about the code.
+		* In this case, it is a comment block inside the .project file.
+		*/
+	    <!-- <comment></comment> -->
 	<projects>
 	</projects>
 	<buildSpec>
