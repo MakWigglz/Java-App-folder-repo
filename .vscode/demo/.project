@@ -3,7 +3,9 @@
 	<name>demo</name>
 	<comment></comment>
 		<projects>
-			<project>WebApp.java</project>
+			<project>UserPrompt.java</project>
+			<project>ResponseEvaluator.java</project>
+			<project>Main.java</project>
 			<project>UserPrompt.java</project>
 			<project>ResponseEvaluator.java</project>
 		</projects>
