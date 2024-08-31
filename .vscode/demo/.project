@@ -7,10 +7,13 @@
 		* In this case, it is a comment block inside the .project file.
 		*/
 	    <!-- <comment></comment> -->
-	<projects>
-	</projects>
-	<buildSpec>
-		<buildCommand>
+		<projects>
+			<project>WebApp.java</project>
+			<project>UserPrompt.java</project>
+			<project>ResponseEvaluator.java</project>
+		</projects>
+		<buildSpec>
+			<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
 			</arguments>
